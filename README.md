@@ -1,2 +1,2 @@
 # protacSpace
-A reposity for exploring the PROTACs chemical space
+A repository for exploring the PROTACs chemical space.
