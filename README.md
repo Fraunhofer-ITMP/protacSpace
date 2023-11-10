@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width: 200px; height: 200px;" src="logo_ptac.png">
+  <img style="width: 400; height: 400px;" src="logo_ptac.png">
 </p>
 
 
