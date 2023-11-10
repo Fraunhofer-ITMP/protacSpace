@@ -1,3 +1,8 @@
+<p align="center">
+  <img style="width: 200px; height: 200px;" src="logo_ptac.png">
+</p>
+
+
 # protacSpace
 A repository for generating virtual PROTACS and exploring their chemical spaces.
 
