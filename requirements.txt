@@ -2,4 +2,6 @@ pandas
 tqdm
 rdkit
 numpy
+xlsxwriter
 #itertools
+#175864
