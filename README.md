@@ -1,2 +1,6 @@
 # protacSpace
-A repository for exploring the PROTACs chemical space.
+A repository for generating virtual PROTACS and exploring their chemical spaces.
+
+More stuffs to come. Stay tuned!!
+
+
